@@ -10,10 +10,10 @@ Task: Build a client-side quiz application that presents
 questions, evaluates answers, and displays scores
 instantly.
 Features:
- Multiple-choice questions
- Timer for quiz
- Instant score calculation
- Display correct answers
- Restart quiz option
- Store highest score
- Dynamic question rendering
+1. Multiple-choice questions
+2. Timer for quiz
+3. Instant score calculation
+4. Display correct answers
+5. Restart quiz option
+6. Store highest score
+7. Dynamic question rendering
